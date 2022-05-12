@@ -1,11 +1,11 @@
 ---
-layout: cv
+layout: 项目经理
 title: 邓志圣
 email:
   text: dzs520@126.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://aibama.github.io/nimo-markdown-cv/
+  text: https://aibama.github.io/nimo-markdown-cv/
 ---
 
 # Wode **Ni**
@@ -20,9 +20,9 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## 教育经理
 
-### **Carnegie Mellon University** `2018.9 -`
+### **广东海洋大学** `全日制本科2008 - 2012`
 
 ```
 Pittsburgh, PA
