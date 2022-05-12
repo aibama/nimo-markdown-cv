@@ -8,7 +8,7 @@ homepage:
   text: https://aibama.github.io/nimo-markdown-cv/
 ---
 
-# Wode **Ni**
+# 邓志圣
 
 <!--
 include contact information from the front matter
@@ -20,34 +20,15 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## 教育经理
+## 基本信息
 
-### **广东海洋大学** `全日制本科2008 - 2012`
+### **广东海洋大学 软件工程专业** `全日制本科 （2008 - 2012）              学历学位`
+### **精通WEB后端编程、JAVA、spring全家桶、擅长用户沟通和政务领域项目管理  技术技能`
+### **广东海洋大学 软件工程专业** `全日制本科 （2008 - 2012）              荣誉证书`
+### 行业领域
 
-```
-Pittsburgh, PA
-```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
 
 ## Publications
 
