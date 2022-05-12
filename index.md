@@ -1,9 +1,8 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: 邓志圣
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  text: dzs520@126.com
 homepage:
   url: http://cs.cmu.edu/~woden
   text: cs.cmu.edu/~woden
